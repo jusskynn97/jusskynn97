@@ -5,8 +5,8 @@
 </h1>
 
 - 👋 Hi, I’m Trung Kien
-- 👀 I’m finding for intern
-- 🌱 I’m currently learning Java, C#
+- 🌱 I’m currently on the journey to becoming a Java backend developer
+- 👀 And I also have an interesting with Flutter too
 - 💞️ Thank For Watching!
 - 📫 Contact me: krisktan5436@gmail.com
 <!---<div align="left"> 
