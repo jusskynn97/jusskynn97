@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> -->
 
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Trung+Kien" alt="Typing SVG" /></a>
@@ -8,7 +8,7 @@
 - 🌱 I’m currently on the journey to becoming a Java backend developer
 - 👀 And I also have an interesting with Flutter too
 - 💞️ Thank For Watching!
-- 📫 Contact me: krisktan5436@gmail.com
+- 📫 Contact me for more: krisktan5436@gmail.com
 <!---<div align="left"> 
   <a href="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
