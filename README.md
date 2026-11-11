@@ -1,39 +1,45 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> -->
+<h1 align="center">Hi, I'm Trung Kien 👋</h1>
 
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Trung+Kien" alt="Typing SVG" /></a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+in+the+making;Flutter+%26+Mobile+Enthusiast;Curious+about+AI+%2F+ML+%26+Generative+Systems" alt="Typing SVG" />
+</p>
 
-- 👋 Hi, I’m Trung Kien
-- 🌱 I’m currently on the journey to becoming a Java backend developer
-- 👀 And I also have an interesting with Flutter too
-- 💞️ Thank For Watching!
-- 📫 Contact me for more: krisktan5436@gmail.com
-<!---<div align="left"> 
-  <a href="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
---->
+<p align="center">
+  <a href="mailto:krisktan5436@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/tk97code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<!---
-NaomiLe1811/NaomiLe1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-## Github Contributions
+## 👨‍💻 About Me
+
+- 🎓 Software engineering student based in Vietnam
+- ☕ Currently on the path to becoming a **Java backend developer**
+- 📱 Building cross-platform apps with **Flutter**
+- 🤖 Exploring **AI/ML** and generative systems, and how they fit into real products
+- 📫 Reach me at **krisktan5436@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 🐍 Contributions
+
 ![snake gif](https://github.com/tk97code/tk97code/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://github.com/tk97code/tk97code/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<!--## Peliblogini (game blogs) -->
-<!--<div align="left"> 
-  <a href="https://thaoonguyenn1811.wixsite.com/website/post/the-sim-build-your-home-dream?fbclid=IwAR37g50JztqIbrpjSwY_pIWYpWT8xMUmJ1I9E1I5bL-Ud3NHAjQtW0iYyVI"_blank">
-    The Sims - Build your dream home 
-  </p>
-    <a href="https://thaoonguyenn1811.wixsite.com/website/post/copy-of-inside-breathtaking-2-5d-side-scrolling?fbclid=IwAR05eGvbQGyM71GQ_KnMO9fby4jjBXpSwhgZuGmeufDRPxZPrmu-_4L3vzg"_blank">
-    Inside - breathtaking 2.5D side scrolling 
-  </p>
-         </p>
-    <a href="https://www.naomile1811.com/post/unity-dots-ecs-1-0">
-    Unity DOTS / ECS 1.0 
-  </p>
-</div>-->
+
+---
+
+<p align="center">
+  Thanks for stopping by! ⭐ Feel free to reach out or open an issue on any of my repos.
+</p>
